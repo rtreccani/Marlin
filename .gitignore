@@ -190,3 +190,5 @@ __pycache__
 # Simulation / Native
 eeprom.dat
 imgui.ini
+
+marlinws.code-workspace
